@@ -1,0 +1,29 @@
+Signature-Version: 1.0
+Created-By: 0.3 (Android apksigner)
+SHA-256-Digest-Manifest: n0wRdtYrhV9IGbJ5wcpscC7Msha1CzqJq8XkXo6Dj/M=
+X-Android-APK-Signed: 2
+
+Name: AndroidManifest.xml
+SHA-256-Digest: TpevDKJOVVlKlN8nmudE+mCZAUBjGLmvXgdWZAeO410=
+
+Name: res/mipmap-hdpi-v4/ic_launcher_settings.png
+SHA-256-Digest: 6ZWCPbLxFbsoJw1Kof4lmUJwJBJWPO1W4/o8xVbV56Y=
+
+Name: res/mipmap-mdpi-v4/ic_launcher_settings.png
+SHA-256-Digest: W1SfopO5+fRqjvE6zx49ILlVdKThVNZ9QYVLf5ObuhM=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher_settings.png
+SHA-256-Digest: IiXrycyA9MM755y6eu2FNNv2wRM4mT0K5V4pybdiUOc=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher_settings.png
+SHA-256-Digest: e99WZpahX4oNB16/mf2eW825kVRuO0NK5oSS8MwP8ic=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher_settings.png
+SHA-256-Digest: FdyO20xlCrPlGWeJ9mOWYp/kdXbTkVqxGhggizFFLWU=
+
+Name: res/xml/bookmarks.xml
+SHA-256-Digest: PYrt2hE9drFmDvqWPRQx64PIlXUf674Rb5Pp7NxFKZk=
+
+Name: resources.arsc
+SHA-256-Digest: mJAwUV/2QefEIPq9P01RyOPWCAgoGgHqtVdN3gRP8P4=
+

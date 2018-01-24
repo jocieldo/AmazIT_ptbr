@@ -1,0 +1,50 @@
+Signature-Version: 1.0
+Created-By: 0.3 (Android apksigner)
+SHA-256-Digest-Manifest: bXIKj1jboUWCXvzqt6ps27X1SX7uzThSYfY69iKiPX0=
+X-Android-APK-Signed: 2
+
+Name: AndroidManifest.xml
+SHA-256-Digest: RGFt42gCjVWZwPCUvbHtjj6vlwWtw7jYw/QURF1IQ2Y=
+
+Name: assets/Lato-Reg.ttf
+SHA-256-Digest: pyGVRMKvWpzc7toXGnrJXP5gdlAk8n6E+deXzNkObaU=
+
+Name: res/anim/grow_fade_in_center.xml
+SHA-256-Digest: Y/9kCml70sv+d6puVRJY7GO5dhCpOKyip9c5sOlgCTE=
+
+Name: res/anim/shrink_fade_out_center.xml
+SHA-256-Digest: XlnHgUMaNIYNxPzEEDT47POxrrL1J+HNgk4ivmyvcZk=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA-256-Digest: 0IbAAmsZ4+WzcLguzRMrxRyswjCDV3hEFegyB4//iU8=
+
+Name: res/drawable-hdpi-v4/lan_power_up_bg.png
+SHA-256-Digest: gHi29+mDeSfectK5DbiNH9cy6mKynsM8Kr527QUznAs=
+
+Name: res/drawable-hdpi-v4/lan_power_up_icon_light.png
+SHA-256-Digest: SOs06cpIgerpfzN0L8NSBheAYirt0o5wj61QfeLIsfo=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA-256-Digest: S5+bV80mf/IPdmUqtv/fjZQvKN/LCSyn+ipmzL2czwU=
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA-256-Digest: deP093v+L/8bGTDrbGGvI8v9kQLP6Fe9qiXUE3j1NNo=
+
+Name: res/drawable-xxhdpi-v4/ic_launcher.png
+SHA-256-Digest: Kl6Hi9UCdB8oqgOGdds8n3AiKYEzIplvGyeTUCqgr6Y=
+
+Name: res/interpolator/decelerate_cubic.xml
+SHA-256-Digest: uUH6tHEXr6VNimTJ1gLOZAuVpz+FSWKMa5oS9yyWlUk=
+
+Name: res/interpolator/decelerate_quint.xml
+SHA-256-Digest: c8bdXr0ghTI2AJ1+DjzeJTPQatRzvw9CxoMDYwVsP6o=
+
+Name: res/layout/activity_charging_ui.xml
+SHA-256-Digest: bf+928m0D3XgpFnF9S+kZldP8GdyZkMXc7SlpmpWTmw=
+
+Name: res/menu/charging_ui.xml
+SHA-256-Digest: SxVQRyD54klNme9WdXy+PSCJTDjH2ST2yUgXXPJj1o0=
+
+Name: resources.arsc
+SHA-256-Digest: AkbJqyhLL8PtRTfC2UHHxfkHO5AyToqNce5KSTBFXYo=
+

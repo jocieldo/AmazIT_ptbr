@@ -1,0 +1,33 @@
+Manifest-Version: 1.0
+Created-By: 1.7.0_79 (Oracle Corporation)
+
+Name: AndroidManifest.xml
+SHA-256-Digest: yRA5RZKlxv+O/l7duvqHOkaOO+htly3+Nqy9QKwieiw=
+
+Name: classes.dex
+SHA-256-Digest: 3Ggb66uv91HWNcQIL083i3MjHiDZBfw/u/BO1XeouOE=
+
+Name: res/drawable/bar_color.xml
+SHA-256-Digest: s+ejIktiAua4kgsB9Rf/YjiVF/1b//ra8ELVbmsENbw=
+
+Name: res/layout/main_activity.xml
+SHA-256-Digest: fCA+OVb0axRp2thlnh3Q3TrvNZog54KLAsmiY0RUmDw=
+
+Name: res/menu/menu_main.xml
+SHA-256-Digest: kzuf3ykL/jSWJiSFoarrVtdTBtTGwfkrbsjQTjKVu9Q=
+
+Name: res/mipmap-hdpi-v4/ic_launcher.png
+SHA-256-Digest: OE2qLnGzmif0bCK+nLdkP3fHJGq4svM9dcOfh/YAx2Q=
+
+Name: res/mipmap-mdpi-v4/ic_launcher.png
+SHA-256-Digest: EoMU+O+8h0qcUflQT8eo6RQbSh7IkmpVdS39ZhBbJeo=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher.png
+SHA-256-Digest: bSgNrLLxeioZ1p9EZ+hymllFhS0qeGUoHXkwefxkjBE=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher.png
+SHA-256-Digest: tBVLXVOkJ44nXL4h76tVUZYrd5x/UYixUFgBURj2EsA=
+
+Name: resources.arsc
+SHA-256-Digest: F2nFAFpB9T/wTvE3BmaY7/D0T7T66ZL2OZGTdZoKJcw=
+

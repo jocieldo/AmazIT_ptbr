@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Created-By: 1.7.0_79 (Oracle Corporation)
+
+Name: AndroidManifest.xml
+SHA-256-Digest: pnC4RGHHPN4YX9ByQiTBRmS9ZTtePRrRByNWwbrGae0=
+
+Name: res/mipmap-hdpi-v4/ic_launcher_settings.png
+SHA-256-Digest: T3Bf0MK2Xi4ZBhP3oo4MzEos2zzaeCdswkVm83Ui6P0=
+
+Name: res/mipmap-mdpi-v4/ic_launcher_settings.png
+SHA-256-Digest: obhjhWlzC05mMVKcjZ9dVH0ELqZchf8IsIDb6uoupyE=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher_settings.png
+SHA-256-Digest: VEkUGM1hfczWDvqP9guHOFR1nfS+i2PbBbowH634R5c=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher_settings.png
+SHA-256-Digest: 8+Qxx5w+Mh0QsI1qmNTa4ZWDB4gs6Cd/lCqkNEE4C2w=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher_settings.png
+SHA-256-Digest: iSSaxz5WGRcSyyh8nQm670305KtOePX/DTBXkEjk+lg=
+
+Name: res/xml/bookmarks.xml
+SHA-256-Digest: 6dgpbgioi/g4INXVR8e0nztv3WVdQe4TLaqdO3IDKPU=
+
+Name: resources.arsc
+SHA-256-Digest: /0+tjKuTUYHD8BZSaoVtn5F7X83dzxhw2qH5Ez6Jx9c=
+

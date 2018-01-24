@@ -1,0 +1,63 @@
+Manifest-Version: 1.0
+Created-By: 1.7.0_79 (Oracle Corporation)
+
+Name: AndroidManifest.xml
+SHA-256-Digest: 1HoOI8qxl6FeYCELCqDg5gCB89NZERzD/cgetzxWno0=
+
+Name: res/color/colored_button.xml
+SHA-256-Digest: lmAHgmRcDZgbj741TqzGawXP3pVo3x4wiaTR6wzJQmM=
+
+Name: res/drawable-hdpi-v4/setup_illustration.png
+SHA-256-Digest: jjwlnmRKn+E6d1Ja7JVifxf7FGqQoTrTiSPiWSm2irw=
+
+Name: res/drawable-hdpi-v4/setup_illustration_tile.png
+SHA-256-Digest: 4rUEurHn+kTTZyGNf2XjfZoyifVRvO1PKFlqR3QYmWo=
+
+Name: res/drawable-mdpi-v4/setup_illustration.png
+SHA-256-Digest: PprYT5xuP1Ik/Rz6cj2cs39JmNL5Q+y0Dwq9v8hX3mA=
+
+Name: res/drawable-mdpi-v4/setup_illustration_tile.png
+SHA-256-Digest: +kiH/tkAtDzTGYyE5UZNo0QwG6dhIlfYWmTI5ZmzN2o=
+
+Name: res/drawable-xhdpi-v4/setup_illustration.png
+SHA-256-Digest: M/SFx7H1W69Spm2fOBd+zlJs4xtV+XxXR4pOkQyjhsI=
+
+Name: res/drawable-xhdpi-v4/setup_illustration_tile.png
+SHA-256-Digest: 8Bu1PH6WDAa2oDXtP8IRsZU7F4LkWxlLF2a+GpucE/U=
+
+Name: res/drawable-xxhdpi-v4/setup_illustration.png
+SHA-256-Digest: SYWkn1oced3Xv2D07NQZ+gR/fgaD/saslQ+HGitzokY=
+
+Name: res/drawable-xxhdpi-v4/setup_illustration_tile.png
+SHA-256-Digest: QFZay0EiNcdNChR7f+TFnNpcBsV0/KXYkDPLng5rGNk=
+
+Name: res/drawable/setup_illustration_right.xml
+SHA-256-Digest: 6lif7sr2Z4JzR3Xce8+jHg9ifJH7y0gowMrkNbz0TFM=
+
+Name: res/layout-land/header_and_title.xml
+SHA-256-Digest: 6vEur2cjG0IJgrzM+ktiLaf5A4znuM5okkLGELc+Dyk=
+
+Name: res/layout/encrypt_device.xml
+SHA-256-Digest: UXu7GVgyGuOlIymTWu6n3g9iRU6ih2EC8FuvJNppAmY=
+
+Name: res/layout/encrypt_device_main_text.xml
+SHA-256-Digest: p2hXgjgo3hWZRUpOayf6I+rtfVWQkjUkasjavSYced4=
+
+Name: res/layout/header_and_title.xml
+SHA-256-Digest: V7JvUcrbteDneQBcyWc3AkgkICYtrB9CIPNrBWr/imo=
+
+Name: res/layout/learn_more_dialog.xml
+SHA-256-Digest: nFB6j9YIjbfU0KVluMM55mE3pOPFAysdRwm+rLqqcxw=
+
+Name: res/layout/progress.xml
+SHA-256-Digest: S89R8UHqa8UlgtbNfTmMqIqDd8kSaBgiT3YyI+6G6b8=
+
+Name: res/layout/user_consent.xml
+SHA-256-Digest: 2MBLFqWuBzO2vh9v0bfRQxA2ROP+DEVSci3CDUR3YOc=
+
+Name: res/layout/user_consent_main_text.xml
+SHA-256-Digest: uH+9vI9VNrh4SS6U+Z5+pgBvgBuTNAilw3ULEbXs1SU=
+
+Name: resources.arsc
+SHA-256-Digest: eQoRbB1qbWSkbjbL2aVD/ENMAASTCnsu58n1qjmHqXE=
+

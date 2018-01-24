@@ -1,0 +1,122 @@
+Signature-Version: 1.0
+Created-By: 0.3 (Android apksigner)
+SHA-256-Digest-Manifest: d176p3W2AowRxg6M6+otg1SAfuPVria2ie7eG3ss6uw=
+X-Android-APK-Signed: 2
+
+Name: AndroidManifest.xml
+SHA-256-Digest: VEzdAq/UotYh5E5wrMS9DIua4gdmAmO5ESIgr1XMI2Q=
+
+Name: res/raw/keyboard_layout_arabic.kcm
+SHA-256-Digest: c7ep5R+gBRPutkWhXtUqmOT5lKZ7LXFw2GGaSCVkAnE=
+
+Name: res/raw/keyboard_layout_belgian.kcm
+SHA-256-Digest: i+vwe73elSGbcQdAvPftl9lF50A9tYxF8dDZ1GqqcUI=
+
+Name: res/raw/keyboard_layout_brazilian.kcm
+SHA-256-Digest: tKHXaWbMLODfHBQ2N2O6cmnKG2xxMMjEaqa3z6h2qmM=
+
+Name: res/raw/keyboard_layout_bulgarian.kcm
+SHA-256-Digest: E60nSq8pKeTFGRdud+q5XCbd2UDv0dYRusYu9rRaLvA=
+
+Name: res/raw/keyboard_layout_croatian_and_slovenian.kcm
+SHA-256-Digest: CBFBq5jrxbR2t9LOyoyoI/RMDN0rBV7wF+ucCSlwG90=
+
+Name: res/raw/keyboard_layout_czech.kcm
+SHA-256-Digest: 0K+6N5xqzGE2yMDxBO9vEsA40Nbh0skWtRfKKPkFJYM=
+
+Name: res/raw/keyboard_layout_danish.kcm
+SHA-256-Digest: clmDG/eqJGc/FiGco5W+Luk/ItCUOpNHcW0dgSWY674=
+
+Name: res/raw/keyboard_layout_english_uk.kcm
+SHA-256-Digest: XWHj5XcrGr6SRfNVIiZv6JxFfDr/fgwFvpeBcxG5Cwk=
+
+Name: res/raw/keyboard_layout_english_us.kcm
+SHA-256-Digest: CGfi8qAqmPsj6YJ7hzC6+0xosKE46JNa76U0TR/MlsI=
+
+Name: res/raw/keyboard_layout_english_us_colemak.kcm
+SHA-256-Digest: IuaVo8Awz/hCalV+GW+AebhRP+qOo2tpIo1IXiKmj7c=
+
+Name: res/raw/keyboard_layout_english_us_dvorak.kcm
+SHA-256-Digest: 91Z+UmI9Br173gTqJMSRhrR+Kdmkh70HXCnOWsJjHzA=
+
+Name: res/raw/keyboard_layout_english_us_intl.kcm
+SHA-256-Digest: GA+Dx34fG+ua0a4eVUOzJxIcV7STOLAezOiLYsbnZuk=
+
+Name: res/raw/keyboard_layout_estonian.kcm
+SHA-256-Digest: vrVFhjfdNJh19lNUk10XfUCFW4NMb82tP1hXIviyGmA=
+
+Name: res/raw/keyboard_layout_finnish.kcm
+SHA-256-Digest: 2iHJNl8l2waShJQTa41qvBaGZgMyPYE2iHa9taT9AMo=
+
+Name: res/raw/keyboard_layout_french.kcm
+SHA-256-Digest: eFh/NbveR7cpmSLyOlHIPaUUxYhGKg07GT+8Lt+zK5M=
+
+Name: res/raw/keyboard_layout_french_ca.kcm
+SHA-256-Digest: tb4CaapA8ITk5myb0dbWuZKLl6a9NgGmUHabz+QontI=
+
+Name: res/raw/keyboard_layout_german.kcm
+SHA-256-Digest: plwH6XA6FuSibXYvVbvadQHXtmng9ZvU5PxBI7OzwaI=
+
+Name: res/raw/keyboard_layout_greek.kcm
+SHA-256-Digest: C4Xrpe9RBd0Y+G3xRXNqmCbFyGbzgW0eeRMuiTTqnFc=
+
+Name: res/raw/keyboard_layout_hebrew.kcm
+SHA-256-Digest: pbQ6D9ZHRNK9XZtX8aKk+Mnc29BbK18MuNeedzNitvQ=
+
+Name: res/raw/keyboard_layout_hungarian.kcm
+SHA-256-Digest: JGSgTknpwBjr3+honI9L1wzCKu0N471H3zH+HeA6TDU=
+
+Name: res/raw/keyboard_layout_icelandic.kcm
+SHA-256-Digest: ni4xS9TrhmUNDYRv1ELvH4xYnq+26jqBAmGcsEtZfCQ=
+
+Name: res/raw/keyboard_layout_italian.kcm
+SHA-256-Digest: 6zXnwfFAq9YSm9SY0oviMR0g36bi7gr/lcDGjDUpr1s=
+
+Name: res/raw/keyboard_layout_latvian_qwerty.kcm
+SHA-256-Digest: INDGgPrJPDXq6lBOUQaMEF6eJ7WOTIqRJQ6nbMPgh/A=
+
+Name: res/raw/keyboard_layout_lithuanian.kcm
+SHA-256-Digest: ja03DdjmxP90zaPrw+EjV/QPq9v41BF2LCN1vbUo/hU=
+
+Name: res/raw/keyboard_layout_norwegian.kcm
+SHA-256-Digest: S3NKWu4jlOWXhOxb7QTgDwlM/HX+cZ6O1rnVGOeWsxA=
+
+Name: res/raw/keyboard_layout_portuguese.kcm
+SHA-256-Digest: X4L4XcHLLjVEkPYrMVX2bqcI/m0wkfUEs1K21bXgfZA=
+
+Name: res/raw/keyboard_layout_russian.kcm
+SHA-256-Digest: +iCo1YgdiXbfUp5lgSjHDRODAk4pOd5k8dDyW4nSGt8=
+
+Name: res/raw/keyboard_layout_russian_mac.kcm
+SHA-256-Digest: uuuAuoWplJnnGvozXygMi6XyAiXkNHhFs6h/uJahDOU=
+
+Name: res/raw/keyboard_layout_slovak.kcm
+SHA-256-Digest: WPtTfr5HNpvVy1gOC8Yg2bgHR3sMvySqtLM9CUZvfD0=
+
+Name: res/raw/keyboard_layout_spanish.kcm
+SHA-256-Digest: qT+ForBwm3ePwpcgJDV7W1jfeZi9FwFUuNzGiKLOGF8=
+
+Name: res/raw/keyboard_layout_spanish_latin.kcm
+SHA-256-Digest: XubyqKNQOpgP9ZzCAcgtUb1KxMn5ZpL9vCtyGlTjHt4=
+
+Name: res/raw/keyboard_layout_swedish.kcm
+SHA-256-Digest: X6qd72PXTQ+dP0kehGTIh0yC24GlETJFux7WdlIX8XI=
+
+Name: res/raw/keyboard_layout_swiss_french.kcm
+SHA-256-Digest: QRTQAdVIxTrq7I7vLMcdICwceYbcmmFeI2hCLz/c+Po=
+
+Name: res/raw/keyboard_layout_swiss_german.kcm
+SHA-256-Digest: DT6ALCKJlcFLHn0KRrGFRkTszQSlNgQ1DSX3laFUXxk=
+
+Name: res/raw/keyboard_layout_turkish.kcm
+SHA-256-Digest: uaTb7x0RgqXswz31NQCB1EKMyRVavkF4fd3Ocpy67Gw=
+
+Name: res/raw/keyboard_layout_ukrainian.kcm
+SHA-256-Digest: Ql4mjaX4eZc8oMBTTqCdBLC6p29L+lYzg9dMxR2T7AU=
+
+Name: res/xml/keyboard_layouts.xml
+SHA-256-Digest: k10wX1wfT87BAbLcLeX/kxw9iFxKWkkCd+kTB0D+CBQ=
+
+Name: resources.arsc
+SHA-256-Digest: kZ9DvMf9qpneF2YHacZiroW+6PNrBxfECxFEZjCDQug=
+

@@ -1,0 +1,38 @@
+Signature-Version: 1.0
+Created-By: 0.3 (Android apksigner)
+SHA-256-Digest-Manifest: KjSGqQWEgeELv70ZBuiFGTkVEfra32+BxmLjiMG2b1c=
+X-Android-APK-Signed: 2
+
+Name: AndroidManifest.xml
+SHA-256-Digest: UtiSwAnzzFAHq+qZlqWhgaw+qG1ybv5DmxJuFiJqBGU=
+
+Name: res/drawable-hdpi-v4/ic_search_category_music_album.png
+SHA-256-Digest: HAXs6NVdv4FTw+l+lqATia/ufJ6s65HMM3OiGOlk3x4=
+
+Name: res/drawable-hdpi-v4/ic_search_category_music_artist.png
+SHA-256-Digest: +7SYYUUWRwjWKmMI8psYrLxcaVmCenQTQy3/H6H/vbU=
+
+Name: res/drawable-hdpi-v4/ic_search_category_music_song.png
+SHA-256-Digest: XR8lApf4aSthcT8qurI6M9w6n+i2ZUqot63Y3Tgx+/s=
+
+Name: res/drawable-mdpi-v4/ic_search_category_music_album.png
+SHA-256-Digest: zn9FH/yJk0toVz5Lya9qFrVPdSNW33qiKvNZh9APdsQ=
+
+Name: res/drawable-mdpi-v4/ic_search_category_music_artist.png
+SHA-256-Digest: LB6qaQiKyDWjY/QMP+9PlkwVqbUvACDcukZCRwo7FuY=
+
+Name: res/drawable-mdpi-v4/ic_search_category_music_song.png
+SHA-256-Digest: M8acX78TPJIqJnwzkiCgueauo9H9RPqLrz+pG/2lfz4=
+
+Name: res/mipmap-hdpi-v4/ic_launcher_gallery.png
+SHA-256-Digest: aF4KkPJznnA46DPLN1UBI9FZ8acpSHGPhBDYlClaJjw=
+
+Name: res/mipmap-mdpi-v4/ic_launcher_gallery.png
+SHA-256-Digest: UAK6z4vqR1Y5g3Q+fbeq4H/2ZJfbWsKbsOCewDI1Tmc=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher_gallery.png
+SHA-256-Digest: pNeGYpId3pu59cTbYvy0Jgx5siKyZ6A5FSsta9+jbr8=
+
+Name: resources.arsc
+SHA-256-Digest: NoM/jXQnxasnYqEIWcvtxXtzbaSAFvYzf4+MWeYaLHA=
+

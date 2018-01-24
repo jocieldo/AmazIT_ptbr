@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Created-By: 1.7.0_79 (Oracle Corporation)
+
+Name: AndroidManifest.xml
+SHA-256-Digest: RMREPscnVaQNIl2LFqjUR5zEwVMRNEGuEWJkbYsH0tM=
+
+Name: assets/locked_page.png
+SHA-256-Digest: xxivaxamH05abKYdBoqueASsekfi0m22zNgCcqf4uWs=
+
+Name: res/layout/activity_captive_portal_login.xml
+SHA-256-Digest: 54LAco7OcfTR+d+/4MoLgzYCYuPiYpDeSxfQh/OZxfc=
+
+Name: res/menu/captive_portal_login.xml
+SHA-256-Digest: 1AvEfdjs6HmSuPhlWF0BGNMOVrmYd2xgnrOD8/Vh6i4=
+
+Name: resources.arsc
+SHA-256-Digest: J30Jpl6g3XyjVl9iYtGU2/IRvDMCgK7V1iOPYtcAfjU=
+

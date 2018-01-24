@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Created-By: 1.7.0_79 (Oracle Corporation)
+
+Name: AndroidManifest.xml
+SHA-256-Digest: zt2dZgOLISzFR3xrtH6LOH7xI2VaKdhr30okmnWfIHI=
+
+Name: res/layout/cert_chooser.xml
+SHA-256-Digest: aK+WLIRIUkj/4WHLPHkleHUYEnNfU/oHN3CvI55VREk=
+
+Name: res/layout/cert_chooser_footer.xml
+SHA-256-Digest: 1KD85/1sDRmANwYuw4QiFeh7hlJ8OWcLDT3EYYq5Epo=
+
+Name: res/layout/cert_chooser_header.xml
+SHA-256-Digest: pMVAKayUL0NCl6tx/qi4LD0TzUijCOaFoQljZZ7ZDx8=
+
+Name: res/layout/cert_item.xml
+SHA-256-Digest: xV5ssDhidNi5cwSoLznnk0K8ytmgayf0jFnAdy2JeYE=
+
+Name: resources.arsc
+SHA-256-Digest: 7eA3+MmCY+jlWX5U0hsMapR1G5JLswgI0OoAu4+ayVY=
+

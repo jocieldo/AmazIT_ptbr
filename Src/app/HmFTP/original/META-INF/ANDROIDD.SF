@@ -1,0 +1,47 @@
+Signature-Version: 1.0
+Created-By: 0.3 (Android apksigner)
+SHA1-Digest-Manifest: xN30+2mKQG/ztBHh59ePnc9xHO0=
+X-Android-APK-Signed: 2
+
+Name: AndroidManifest.xml
+SHA1-Digest: /465b0u1x+JEJ37vDqaz2ZhdIro=
+
+Name: classes.dex
+SHA1-Digest: hB/0uhZM70iDWqD2x0EQEd9FbXU=
+
+Name: org/apache/ftpserver/config/spring/ftpserver-1.0.xsd
+SHA1-Digest: DZHItAJOFV7QGEdOADyqFAbLlP4=
+
+Name: org/apache/ftpserver/ftpserver.properties
+SHA1-Digest: u9TKVWxFe6AJuZ9K0jS4cHCtvkk=
+
+Name: org/apache/ftpserver/message/FtpStatus.properties
+SHA1-Digest: bV1V7sbBuk+JpiohGfTnNTkvVhk=
+
+Name: org/apache/ftpserver/message/FtpStatus_en.properties
+SHA1-Digest: GAyVJOuf8gYI1Nj37B4ICluuVeg=
+
+Name: org/apache/ftpserver/message/FtpStatus_zh-tw.properties
+SHA1-Digest: ov/Kg7LPMi4RBsHa+1oCm7QrxKs=
+
+Name: org/apache/log4j/lf5/config/defaultconfig.properties
+SHA1-Digest: Hd+iPwhuiU12fj/aZD8E/YiEoPU=
+
+Name: org/apache/log4j/lf5/viewer/images/channelexplorer_new.gif
+SHA1-Digest: H6WJc5aL1P/kD91bD2Pmt64Uf/4=
+
+Name: org/apache/log4j/lf5/viewer/images/channelexplorer_satellite.gif
+SHA1-Digest: SLj5rHaUS+PZY8y+lZh+ZPBg3/o=
+
+Name: org/apache/log4j/lf5/viewer/images/lf5_small_icon.gif
+SHA1-Digest: fRnxAy+p5qbjaE5l7SbV635p4dA=
+
+Name: org/apache/log4j/xml/log4j.dtd
+SHA1-Digest: 6490nNV3gTt3ClyzHRx2OddR21Y=
+
+Name: res/raw/users
+SHA1-Digest: HpDBfRJ4j4vcUykM4HsW1tPRU3U=
+
+Name: resources.arsc
+SHA1-Digest: lWqzk/HYrOPGF3ArypXQ+EjIdU0=
+

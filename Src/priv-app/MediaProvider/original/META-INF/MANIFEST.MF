@@ -1,0 +1,36 @@
+Manifest-Version: 1.0
+Created-By: 1.7.0_79 (Oracle Corporation)
+
+Name: AndroidManifest.xml
+SHA-256-Digest: 46kID9iPgO2bL8s5DJc+C+rgK10esgNeBExQ4UTkiK0=
+
+Name: res/drawable-hdpi-v4/ic_search_category_music_album.png
+SHA-256-Digest: D3iwJXocwnntu8quG5RDVun/Ac/lAIZlvHVxWYkmGbg=
+
+Name: res/drawable-hdpi-v4/ic_search_category_music_artist.png
+SHA-256-Digest: 7RyRlg/131q17zCVkkv+bFeFD27GC8vl8LEfDswgoRA=
+
+Name: res/drawable-hdpi-v4/ic_search_category_music_song.png
+SHA-256-Digest: gLIQAlOuDcYdRzncM9Ye63J0fxFUnSf6YAY4FabaYFk=
+
+Name: res/drawable-mdpi-v4/ic_search_category_music_album.png
+SHA-256-Digest: nUSb4JRm5TS0X5zDx3qx8vWenrNsgTMsbwqzLDKPVto=
+
+Name: res/drawable-mdpi-v4/ic_search_category_music_artist.png
+SHA-256-Digest: E+0ESbIb8Ty50ffyGmt/aF6SH3CPoPRvZe7hTD+Wlr0=
+
+Name: res/drawable-mdpi-v4/ic_search_category_music_song.png
+SHA-256-Digest: i2z1iXZRRh9l4mVrkGMqdbuICECqTrH0LuDDpuLFH4E=
+
+Name: res/mipmap-hdpi-v4/ic_launcher_gallery.png
+SHA-256-Digest: wMt9biE0gYNtzden+AY/gEL2DpCY/B6LJCdNXdplilk=
+
+Name: res/mipmap-mdpi-v4/ic_launcher_gallery.png
+SHA-256-Digest: oygOOXmY5w+YjZsrnSgxIomd9s+Z4c/XDySX+YiqJK0=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher_gallery.png
+SHA-256-Digest: s6tzXEXiBvLbpYnZxtmQbqjXrYvrarohHtgBIHfxyQw=
+
+Name: resources.arsc
+SHA-256-Digest: lop6poRwVA2xoXzQt09EzF3rgK8/ZgL+0IkAyYOzyCI=
+

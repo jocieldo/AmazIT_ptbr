@@ -1,0 +1,78 @@
+Manifest-Version: 1.0
+Created-By: 1.7.0_79 (Oracle Corporation)
+
+Name: AndroidManifest.xml
+SHA-256-Digest: HZs1UJppQELFEPixzYT5F+1XPjn3Df0DyKd4OsTaPB0=
+
+Name: assets/fonts/DINCond-Bold.ttf
+SHA-256-Digest: llawOtvj5NoKUIgKPNvQdTOVUksIY0H7PDy8cKGR8Mo=
+
+Name: res/anim/correct_content_appear.xml
+SHA-256-Digest: WQ3zcmwEnVNA1hc4r0GRF2f4xE8DJlFxk7dBON1uWkk=
+
+Name: res/anim/correct_title_disappear.xml
+SHA-256-Digest: DB50ZoyQ4yRAMk6riztOfe1RV0nLsu6r8JrdhhKAl9s=
+
+Name: res/anim/no_anim_in.xml
+SHA-256-Digest: ym6ONH8wiaiUerA7Q7VL4qeMceGLQnolUkSk7+ZQx00=
+
+Name: res/anim/no_anim_out.xml
+SHA-256-Digest: ym6ONH8wiaiUerA7Q7VL4qeMceGLQnolUkSk7+ZQx00=
+
+Name: res/anim/red_dot_scale.xml
+SHA-256-Digest: FBcU7M/2/ymzzb7W9QOAZJ8hTDIi0km+g6O7/3jVPN8=
+
+Name: res/anim/red_dot_to_compass.xml
+SHA-256-Digest: QMWAuLki3iQMkYDwm1ABNQBvOAFjqeiQi/RAU2qN5cg=
+
+Name: res/anim/red_dot_to_correct.xml
+SHA-256-Digest: o+ZsQ1vFlySoSJ4ikOmUeOfysR8H2RiWX803Lvd6Cg0=
+
+Name: res/drawable-nodpi-v4/compass_loading_bg.png
+SHA-256-Digest: I6/EuRN3CWzTowk2J+NFGsYA2jhjbZ1QReC6oBMdW7o=
+
+Name: res/drawable-nodpi-v4/compass_overflow_bg.png
+SHA-256-Digest: eSr82rg5xAYpxKWyz/yduLXM2/uDpzebYeEfcU4c1xg=
+
+Name: res/drawable-nodpi-v4/compass_splash.png
+SHA-256-Digest: FfIE5d91tRtgWzSZcRkQcUI4Xs9v/qcM3P8IwRz8qZI=
+
+Name: res/drawable/compass_direction.png
+SHA-256-Digest: iX6wiyKU+ZEs/4PdXYWGdETPtRZ4anC1CfyQh8C54zs=
+
+Name: res/drawable/compass_north.png
+SHA-256-Digest: EabQm/LZlETF5xhe7/6pOALyV2tx9QA9vlx70aJvyx8=
+
+Name: res/drawable/compass_number_bg.png
+SHA-256-Digest: zTbdWJpKWsAksW9pZ+rP6F76ogWc7Q7KtKGaKCDD7ZM=
+
+Name: res/drawable/divider_a.xml
+SHA-256-Digest: eb1xYXJ4rGGwhisp2ZIwjrrALJay34OoTIiB1tVJ8sc=
+
+Name: res/drawable/divider_b.xml
+SHA-256-Digest: VlPb61a7pcngvxiQr4Ci/0btPEYin0KD1qDDrmMStDI=
+
+Name: res/drawable/lan_applist_icon_compass.png
+SHA-256-Digest: MiIw3CCAIycjnHatXMAA5b6XrbvrH9NYAp4g9CDJxNE=
+
+Name: res/drawable/main_bg.png
+SHA-256-Digest: WIe6Y+wdXe6SK+4w+Pszgblpo3JNt8JicakAIDGXAos=
+
+Name: res/drawable/red_dot.xml
+SHA-256-Digest: juxFrJkts66NKNbnxsmulyW8I0R8jPvIWyLQq2oWSbw=
+
+Name: res/drawable/small_dot.xml
+SHA-256-Digest: S2PaG7FD//Ue0MB7bU9PFAjPxnZiFdBNygqiacpZ924=
+
+Name: res/layout/fragment_compass_with_correcting.xml
+SHA-256-Digest: XHCzvw79YFRly5JljdbUv0QgiVpxnBqUU/h1jNVE804=
+
+Name: res/layout/fragment_geographic_info.xml
+SHA-256-Digest: ItLooPFz217E9pT5nrhBLJc1VLuJG9PddH2bMdf3ggc=
+
+Name: res/mipmap-hdpi-v4/app_icon_compass.png
+SHA-256-Digest: DX1ga/53skrK3d0b2Td0E8M7hAOSeJnFvHPAmLyogqA=
+
+Name: resources.arsc
+SHA-256-Digest: ZV6nRiwXfZrUYejdFGOWy9VsSj39mIe+rTReUDxC9Co=
+

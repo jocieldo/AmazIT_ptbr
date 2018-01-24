@@ -1,0 +1,22 @@
+mkdir C:\AmazIT\Traduzido\priv-app
+copy C:\AmazIT6\priv-app\App_Extraido\BackupRestoreConfirmation\dist\*.* C:\AmazIT\Traduzido\priv-app
+copy C:\AmazIT6\priv-app\App_Extraido\CustomSettings\dist\*.*            C:\AmazIT\Traduzido\priv-app
+copy C:\AmazIT6\priv-app\App_Extraido\DefaultContainerService\dist\*.*   C:\AmazIT\Traduzido\priv-app
+copy C:\AmazIT6\priv-app\App_Extraido\ExternalStorageProvider\dist\*.*   C:\AmazIT\Traduzido\priv-app
+copy C:\AmazIT6\priv-app\App_Extraido\FusedLocation\dist\*.*             C:\AmazIT\Traduzido\priv-app
+copy C:\AmazIT6\priv-app\App_Extraido\HmAlarmClock\dist\*.*              C:\AmazIT\Traduzido\priv-app
+copy C:\AmazIT6\priv-app\App_Extraido\InputDevices\dist\*.*              C:\AmazIT\Traduzido\priv-app
+copy C:\AmazIT6\priv-app\App_Extraido\ManagedProvisioning\dist\*.*       C:\AmazIT\Traduzido\priv-app
+copy C:\AmazIT6\priv-app\App_Extraido\MediaProvider\dist\*.*             C:\AmazIT\Traduzido\priv-app
+copy C:\AmazIT6\priv-app\App_Extraido\OtaWatch\dist\*.*                  C:\AmazIT\Traduzido\priv-app
+copy C:\AmazIT6\priv-app\App_Extraido\ProxyHandler\dist\*.*              C:\AmazIT\Traduzido\priv-app
+copy C:\AmazIT6\priv-app\App_Extraido\SettingsProvider\dist\*.*          C:\AmazIT\Traduzido\priv-app
+copy C:\AmazIT6\priv-app\App_Extraido\SharedStorageBackup\dist\*.*       C:\AmazIT\Traduzido\priv-app
+copy C:\AmazIT6\priv-app\App_Extraido\Shell\dist\*.*                     C:\AmazIT\Traduzido\priv-app
+copy C:\AmazIT6\priv-app\App_Extraido\SysInfo\dist\*.*                   C:\AmazIT\Traduzido\priv-app
+copy C:\AmazIT6\priv-app\App_Extraido\SystemUI\dist\*.*                  C:\AmazIT\Traduzido\priv-app
+copy C:\AmazIT6\priv-app\App_Extraido\TaskManager\dist\*.*               C:\AmazIT\Traduzido\priv-app
+copy C:\AmazIT6\priv-app\App_Extraido\WearAirPlaneMode\dist\*.*          C:\AmazIT\Traduzido\priv-app
+copy C:\AmazIT6\priv-app\App_Extraido\WearLauncher\dist\*.*              C:\AmazIT\Traduzido\priv-app
+copy C:\AmazIT6\priv-app\App_Extraido\WearSettings\dist\*.*              C:\AmazIT\Traduzido\priv-app
+copy C:\AmazIT6\priv-app\App_Extraido\WifiUploadData\dist\*.*            C:\AmazIT\Traduzido\priv-app

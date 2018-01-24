@@ -1,0 +1,48 @@
+Manifest-Version: 1.0
+Created-By: 1.7.0_79 (Oracle Corporation)
+
+Name: AndroidManifest.xml
+SHA-256-Digest: zVnz8w+0LtHZcBTXDOwvAMfVHHemZ1DcTUL7DCp9LWo=
+
+Name: assets/Lato-Reg.ttf
+SHA-256-Digest: eucUtjwsi5QL3SEaDMZ48BFoo07qiqE8DfJTZPKSOKc=
+
+Name: res/anim/grow_fade_in_center.xml
+SHA-256-Digest: ZLRL1XZ6xVU3X2OjSRU40+ag8WmEQq09uwB0pgfqZ64=
+
+Name: res/anim/shrink_fade_out_center.xml
+SHA-256-Digest: VSJJBtoSVP+1FdgAhQHroDKisjs7HxTKgYc5awRQDig=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA-256-Digest: JvcwK/K024RQvSdJmltwi/QZb9xRwAMaDwHadxnMMw0=
+
+Name: res/drawable-hdpi-v4/lan_power_up_bg.png
+SHA-256-Digest: 1GE3ZEn87EiyfPrynklXLwymwg2Eh3MWlw4BBoaZxPA=
+
+Name: res/drawable-hdpi-v4/lan_power_up_icon_light.png
+SHA-256-Digest: h/K+UFsKUYXCmWDiCzV1Ka10RmcvJR7uf+g3V0GZqbk=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA-256-Digest: 2OTOrXSGQMgAymxeuphbQt3OppGmdjpnrugIJtT4iaM=
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA-256-Digest: r73bTJnEjZDXpiYFJHGOJiqEj9JrFMmJSkYr/Ua2eQw=
+
+Name: res/drawable-xxhdpi-v4/ic_launcher.png
+SHA-256-Digest: xDNVs/WVCnw3uw3Kis2ukHq+QOnWlLCES6JzabCtyGA=
+
+Name: res/interpolator/decelerate_cubic.xml
+SHA-256-Digest: XpbsBHgO04gdI+9IYnbqD4Vwu18qETOAvU/6+EnSdiA=
+
+Name: res/interpolator/decelerate_quint.xml
+SHA-256-Digest: ORfzxLWJcOg7hSg+APFo6SiME+4xB8qx4q2NqKafRoA=
+
+Name: res/layout/activity_charging_ui.xml
+SHA-256-Digest: REsksysOpS+ef9icapY0Jc2l3ElZOmmH2CWD7Oa8rLA=
+
+Name: res/menu/charging_ui.xml
+SHA-256-Digest: zTNtIgDeir7YEBzWjE3dajaT+/HLgZh4QvUWPTcYSTI=
+
+Name: resources.arsc
+SHA-256-Digest: /w6076psNwRAC0rFX8MG7Vk/lUvYfB4FDEZKCGlKM8I=
+

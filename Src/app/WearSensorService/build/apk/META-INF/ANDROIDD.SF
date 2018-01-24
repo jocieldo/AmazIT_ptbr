@@ -1,0 +1,26 @@
+Signature-Version: 1.0
+Created-By: 0.3 (Android apksigner)
+SHA1-Digest-Manifest: i81Phb2Kujc/R0///yAsHSl9+lI=
+X-Android-APK-Signed: 2
+
+Name: AndroidManifest.xml
+SHA1-Digest: /iqKEN8uML+mK13JBLX2PP7G3Ck=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: nVLQ/wUjf9D4KSB2I7WqoHR14JY=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: NBFXy1maYHW4TAiVCw6R9+EBNqI=
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA1-Digest: qLB+xSuTsdod1eS2aPJel/A5PvE=
+
+Name: res/drawable-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: W7nSszMeL1x0eIt3K2CoCIHU6Qg=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: vt2MqYkXiXQZKXJ8s4tVydYY/wg=
+
+Name: resources.arsc
+SHA1-Digest: dhtaO2i1rfI9sAufF4ibG7K/tQs=
+

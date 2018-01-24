@@ -1,0 +1,123 @@
+Manifest-Version: 1.0
+Created-By: 1.7.0_79 (Oracle Corporation)
+
+Name: AndroidManifest.xml
+SHA-256-Digest: rfHGFVodr++e6oJtYGOpfeBxjFhySF1Cv3E8TqbzLGI=
+
+Name: res/drawable-hdpi-v4/accept.png
+SHA-256-Digest: tQRjiDpBSaudNcba69XhSuU6IeDJeIHmTfjhN9QogXk=
+
+Name: res/drawable-hdpi-v4/calendar.png
+SHA-256-Digest: R/2/aYtBAPv3jiXXfJ3D9UVeWC+6f9KxSQUmdhBZ2RM=
+
+Name: res/drawable-hdpi-v4/call.png
+SHA-256-Digest: ibUXaBKjeozkRakhtPgdivKRnY7/cEDY0jbAJ8M2JCo=
+
+Name: res/drawable-hdpi-v4/decline.png
+SHA-256-Digest: eOIbbkU9w7UvifeApdbJXpDTwRQd72GrkKeNZA3LZ+w=
+
+Name: res/drawable-hdpi-v4/facebook.png
+SHA-256-Digest: +bfgdyVOmUDTSfjEoFl+davz36fj4Ba9hvIhgZQVQm8=
+
+Name: res/drawable-hdpi-v4/gmail.png
+SHA-256-Digest: TfzgBEJcTRwBzmDbm+rcLF0Csb1RYsd8XJ2RwDN/aL8=
+
+Name: res/drawable-hdpi-v4/hangouts.png
+SHA-256-Digest: aOLhdJSCd5OH6oxHwY++USAhu5RBK/ZbmjlMYU3mncc=
+
+Name: res/drawable-hdpi-v4/ic_accept.png
+SHA-256-Digest: UQot2gg5xCDIiL+vqLMlDsZindOztdV3eyyaiAIxflc=
+
+Name: res/drawable-hdpi-v4/ic_decline.png
+SHA-256-Digest: Hj5Su+CeQdl3k+3Guz5xN1+lJkRM+XF5cjxu+rl4kMA=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA-256-Digest: Ph6RL6Xhhhpkm9Ekivxq4f5ISHgrFWykJNcguRHWgnA=
+
+Name: res/drawable-hdpi-v4/line.png
+SHA-256-Digest: 1rVtRTAQnwkmnAHufcNqh4EUmNdOrhXk1DMHh6n3+Kc=
+
+Name: res/drawable-hdpi-v4/mail.png
+SHA-256-Digest: azyIkzbp0rVxPmdK7XXEo9vjt/HIcKQ3J3vdhrezazU=
+
+Name: res/drawable-hdpi-v4/messenger.png
+SHA-256-Digest: gcuMUOGbQ6boN38AjGtowKnQ4ZZHgvRfuGdw/vkTyH8=
+
+Name: res/drawable-hdpi-v4/next.png
+SHA-256-Digest: yeJM9vy3e8bah6BeqBaqjJlTZgcJ3w5CVnncAYMj1ws=
+
+Name: res/drawable-hdpi-v4/next_click.png
+SHA-256-Digest: eIuEf/vvVGN9xBk/5GT9ZjuZ7gl8WPFVRaYzo6MQF4Q=
+
+Name: res/drawable-hdpi-v4/prev.png
+SHA-256-Digest: t76O8qpPk3EFLa4xTODLkb2VKyJnBjRazFoKbFaRXA8=
+
+Name: res/drawable-hdpi-v4/prev_click.png
+SHA-256-Digest: gu1gFTXZTbBgS0k8A0P2nfY/tQniKUNknQAsGZpzyWo=
+
+Name: res/drawable-hdpi-v4/resume.png
+SHA-256-Digest: 9Hm7zaHuKrZb499ix556f0j+EE94A43ZmXHQw3SHltg=
+
+Name: res/drawable-hdpi-v4/resume_click.png
+SHA-256-Digest: O7DRN40AlNLNR0k7SbjDn3C7/X3gG67vtEbiADzCoTM=
+
+Name: res/drawable-hdpi-v4/start.png
+SHA-256-Digest: jA9khkvapSkE3t2ZsmZle2ApUwpRckNNhjrU1kbes54=
+
+Name: res/drawable-hdpi-v4/start_click.png
+SHA-256-Digest: 52n1w59/RZKJYIR+gCFFpuIfXHq/SIOsU5LEVjy/xW0=
+
+Name: res/drawable-hdpi-v4/stop.png
+SHA-256-Digest: QS2/g9izXJ7mjhTFT3ceZ9cjO38EmAQGKP7eKyBJXiU=
+
+Name: res/drawable-hdpi-v4/stop_click.png
+SHA-256-Digest: 7HKxKqMLTWcxczz01VESDHVYGj4iPbTgtccE2U4fPcA=
+
+Name: res/drawable-hdpi-v4/superfish.jpg
+SHA-256-Digest: +jZxh8cnxIhxlWv+gbhS9rCUWm57VUv3mNMbnKR4fq8=
+
+Name: res/drawable-hdpi-v4/twitter.png
+SHA-256-Digest: Mx42M/OXBY2PajWt23OAAbGEgWxU6UPmIUSoYJq6YJg=
+
+Name: res/drawable-hdpi-v4/vol_down.png
+SHA-256-Digest: cTYfXNtGWeRjCWWKed4OLOMBZjBW8fdBdyf0HNoK9ss=
+
+Name: res/drawable-hdpi-v4/vol_down_click.png
+SHA-256-Digest: PSBpHZ9ByinXk8JU4uHw8GCjk7N5shU7CmcCtGRSlUE=
+
+Name: res/drawable-hdpi-v4/vol_up.png
+SHA-256-Digest: R1eByOtPPna/3//zjyc7BYoPsxY3fNJGD4GxOpcoRM0=
+
+Name: res/drawable-hdpi-v4/vol_up_click.png
+SHA-256-Digest: AXi6G2QGRji67NwA/w6TIKg+cji+E1+cTf4i4GtySPk=
+
+Name: res/drawable-hdpi-v4/whatsapp.png
+SHA-256-Digest: jLzmOEhuRrQ3aKLXc50J0G+r+cjh3MOgyj3DTtSftIA=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA-256-Digest: 2OTOrXSGQMgAymxeuphbQt3OppGmdjpnrugIJtT4iaM=
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA-256-Digest: r73bTJnEjZDXpiYFJHGOJiqEj9JrFMmJSkYr/Ua2eQw=
+
+Name: res/drawable-xxhdpi-v4/ic_launcher.png
+SHA-256-Digest: xDNVs/WVCnw3uw3Kis2ukHq+QOnWlLCES6JzabCtyGA=
+
+Name: res/drawable-xxhdpi-v4/lau_notify_icon_power_less.png
+SHA-256-Digest: o2UXmGE0oJokHnPa13CcI1wak1jwsgQ+gvFL99Uo0Kk=
+
+Name: res/layout/activity_main.xml
+SHA-256-Digest: nRdJY86Cfeo9VCuEQqWB0YuBFJa63w0IcQf87PYESig=
+
+Name: res/layout/activity_support.xml
+SHA-256-Digest: U9n9gNouzbnlR8ze+0YrNm1+jK4gguBABijfe2DPFY4=
+
+Name: res/layout/qrlayout.xml
+SHA-256-Digest: pw0KrCFFJFIicCAT6epFo4j61Ayko00MUJUFBlIEMS0=
+
+Name: res/menu/main.xml
+SHA-256-Digest: REAOtDIrEKq6qUTHu4QreYWrdmDoDYYCSOBuSmeQbCQ=
+
+Name: resources.arsc
+SHA-256-Digest: VLyDQK1+ajabiCcufjbFx3inJdzeZvofOYKDBcZl/qA=
+

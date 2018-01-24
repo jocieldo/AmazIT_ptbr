@@ -1,0 +1,219 @@
+Manifest-Version: 1.0
+Created-By: 1.7.0_79 (Oracle Corporation)
+
+Name: AndroidManifest.xml
+SHA-256-Digest: b8O6/OmgZZRhiIWPtr+3ZTq1o6TtliocjfuVoyRNvBQ=
+
+Name: assets/fonts/Lato-Reg.ttf
+SHA-256-Digest: eucUtjwsi5QL3SEaDMZ48BFoo07qiqE8DfJTZPKSOKc=
+
+Name: com/ingenic/iwds/DeviceDescriptor.aidl
+SHA-256-Digest: DvHz8/fqBr6yWW12iYiEsLChY4ioKU79viMWJT7R//s=
+
+Name: com/ingenic/iwds/app/INotificationProxyService.aidl
+SHA-256-Digest: oPi4GqLNse+wwFklHhtZlKXixl/CByey1iJiEv6X5ps=
+
+Name: com/ingenic/iwds/app/INotificationServiceBackend.aidl
+SHA-256-Digest: r0HZYtkcXJ3j0HwTYQt3q4OKk07Bcwk46Z19JLtwMW8=
+
+Name: com/ingenic/iwds/app/Note.aidl
+SHA-256-Digest: Waa1ic8No9cXlcYBBWY/CW+O91K8zMSX6Bj5ycH1fbQ=
+
+Name: com/ingenic/iwds/devicemanager/IDeviceManagerService.aidl
+SHA-256-Digest: z70nCSQFXOrFAVZUqpagZoqV9J4S5RhVEUh2q5PFc0U=
+
+Name: com/ingenic/iwds/remotedevice/IRemoteDeviceAppCallback.aidl
+SHA-256-Digest: qy0Au/vzxq0NcKveDRDNMrXPAyVp0JUchvn8u/Cue6c=
+
+Name: com/ingenic/iwds/remotedevice/IRemoteDeviceProcessCallback.aidl
+SHA-256-Digest: nfTbns66pqzuKjlPD3kZRMRhyMI39eIVcGs2C6dBRdw=
+
+Name: com/ingenic/iwds/remotedevice/IRemoteDeviceService.aidl
+SHA-256-Digest: gHwAEDDKyc9Y3egw+NG6TO8dzjRtnob8R/RG48f+uVU=
+
+Name: com/ingenic/iwds/remotedevice/IRemoteDeviceSettingCallback.aidl
+SHA-256-Digest: IqlvH6cVT1XUqLItO0GtlHWTAHPWnh16Z3HV0Uy3DAM=
+
+Name: com/ingenic/iwds/remotedevice/IRemoteDeviceStatusCallback.aidl
+SHA-256-Digest: aYOf93aAf00tAi2fA59XTOdqPTCofPxJTeoU8yiy/lI=
+
+Name: com/ingenic/iwds/remotedevice/RemoteApplicationInfoList.aidl
+SHA-256-Digest: K0dZ1bzfuvJMNmEWYdIHCBaNXWFBqRlpCxx6Y3fhhzA=
+
+Name: com/ingenic/iwds/remotedevice/RemotePackageStats.aidl
+SHA-256-Digest: 810jAGLEvuL2tNzUDsCg/9hTUvMb0tPEbTWgWhM23tk=
+
+Name: com/ingenic/iwds/remotedevice/RemoteProcessInfoList.aidl
+SHA-256-Digest: 1CNtOmpGeQHHxyQxPM1lNYeaK1pJT9xMj3jJuwjWZKo=
+
+Name: com/ingenic/iwds/remotedevice/RemoteStorageInfo.aidl
+SHA-256-Digest: TFZB31WTBjaG43kqWOn639YJrzsPLvLFXHWhJRV+nk8=
+
+Name: com/ingenic/iwds/slpt/IWatchFaceService.aidl
+SHA-256-Digest: ZbMnLKVIKZq4VW2mf51MWj9yPdgLpNxJxp5jD5rR6WU=
+
+Name: com/ingenic/iwds/smartsense/IRemoteSensorCallback.aidl
+SHA-256-Digest: da/8SJDwQwF5Pa+1w6S3vSDLOQS0BTvVF5DPb9yw1QM=
+
+Name: com/ingenic/iwds/smartsense/IRemoteSensorEventCallback.aidl
+SHA-256-Digest: HZfD8oNXIVZ9xyz3hjtL860noGX3jkVANQcQWDT/uHY=
+
+Name: com/ingenic/iwds/smartsense/IRemoteSensorService.aidl
+SHA-256-Digest: OIl5VsjPzDDGqJJM8+sMe1gYXC7W9fRvdePNqEy+dlw=
+
+Name: com/ingenic/iwds/smartsense/ISensorEventCallback.aidl
+SHA-256-Digest: ivC/xWVMEsQgGDo+ntRmOThs/oYMQrY3KN80oDUPPfg=
+
+Name: com/ingenic/iwds/smartsense/ISensorService.aidl
+SHA-256-Digest: wZVnFcBVhU1kER9HEwcQjP9YSimVSyrSDUYgCi1aZg4=
+
+Name: com/ingenic/iwds/smartsense/Sensor.aidl
+SHA-256-Digest: 3TkQXPxKjO6M92sErc4e+sUxjTmgvyEW+d20aVmGCgQ=
+
+Name: com/ingenic/iwds/smartsense/SensorEvent.aidl
+SHA-256-Digest: wm41izDzwV2aGbzDixO5qRd+OLio3BS8oeViu7ywl14=
+
+Name: com/ingenic/iwds/smartvibrate/IVibrateService.aidl
+SHA-256-Digest: boaXE02FiJyezknkIEwbJ3mlXGcYOXUSRNZY44TPzbg=
+
+Name: com/ingenic/iwds/uniconnect/IConnection.aidl.bak
+SHA-256-Digest: vGiI/KZ2GhRpU345FjMzUUYdOchtc4tzujoMwY3AHIU=
+
+Name: com/ingenic/iwds/uniconnect/IConnectionCallBack.aidl.bak
+SHA-256-Digest: +6DHt4QLEbzog1nP1T2oWaPGFv5LSsWgtVzPD6GVirE=
+
+Name: com/ingenic/iwds/uniconnect/IConnectionService.aidl.bak
+SHA-256-Digest: murTe0X2m507F2yIywDSlYUdyQtIS3Qgl6GA6uQZWCo=
+
+Name: res/anim/tips.xml
+SHA-256-Digest: UtqYzEGRvPE2huuvTUYbkrieB0gTQm4ladXAffAWYpU=
+
+Name: res/drawable-hdpi-v4/alter_dialog_button1.png
+SHA-256-Digest: 4xph+wm5lCMrMSQQ2IIFxUIIX3P7En71y375dvfQs1E=
+
+Name: res/drawable-hdpi-v4/alter_dialog_button3.png
+SHA-256-Digest: WUnkhKlicNzYi5657skehBCVntSloLFnnQ9D0K5s48s=
+
+Name: res/drawable-hdpi-v4/lan_bg.png
+SHA-256-Digest: WIe6Y+wdXe6SK+4w+Pszgblpo3JNt8JicakAIDGXAos=
+
+Name: res/drawable-hdpi-v4/lan_menu_loading.png
+SHA-256-Digest: McQQXJDuM5xmbyASc/YW1IaAeg/ZTYje2FH7Y+lY3lQ=
+
+Name: res/drawable-hdpi-v4/lan_quicksettings_icon_local_upgrade.png
+SHA-256-Digest: 3M9RguCCaX2EotKG0oZIexUc8z5TJeV1m8XHkh3iLyE=
+
+Name: res/drawable-hdpi-v4/lan_quicksettings_icon_online_upgrade.png
+SHA-256-Digest: GyeBd/rxvDIzpQeEYT1wfjFJh/IdYimGGWpz29UjV/A=
+
+Name: res/drawable-hdpi-v4/lan_quicksettings_icon_wifi_0.png
+SHA-256-Digest: Q7kXoPW9x+mEdG9s8B8DEI1A+NJfPdC6cDipivrJDIs=
+
+Name: res/drawable-hdpi-v4/lan_quicksettings_icon_wifi_1.png
+SHA-256-Digest: NiXNz0rLldAF1MRHQEag+seH0kqLXVBRaIdvtvQs2Os=
+
+Name: res/drawable-hdpi-v4/lan_quicksettings_icon_wifi_2.png
+SHA-256-Digest: 3pUbE2Lktt14a4ptwMaqvXy64Fz4Pv7GKXk10wJvnII=
+
+Name: res/drawable-hdpi-v4/lan_quicksettings_icon_wifi_3.png
+SHA-256-Digest: r1SMQUG2GsZpi83BOCg6GMUSeA7ldAHAZqV9E1ryAbU=
+
+Name: res/drawable-hdpi-v4/lan_quicksettings_icon_wifi_signal.png
+SHA-256-Digest: lGmZgWkfAt9mfNm6Lstk/zLs0YCMjVtbved3sifn7wo=
+
+Name: res/drawable-hdpi-v4/lan_quicksettings_icon_wifi_small.png
+SHA-256-Digest: VYab8B5lynyhh9Ymb0aSqqQ0XLSHia+Ni2pIb6nTm+c=
+
+Name: res/drawable-hdpi-v4/lau_notify_icon_list_install.png
+SHA-256-Digest: ycOgLBAs25wsmEpv3euvDmP7MZgmZPicVkLsQpLv9UU=
+
+Name: res/drawable-hdpi-v4/lau_notify_icon_list_next.png
+SHA-256-Digest: 3pqjWaf3C4FNUX3a5c8AdF3mzQ+ms/gTpYFy9B5t1vU=
+
+Name: res/drawable-hdpi-v4/lau_notify_icon_upgrade.png
+SHA-256-Digest: 9BH2icwDPsFrBx5M+WEvgbWAYASM3CLhuXw0RM3HBUg=
+
+Name: res/drawable-hdpi-v4/lau_notify_icon_upgrade_2.png
+SHA-256-Digest: 9BH2icwDPsFrBx5M+WEvgbWAYASM3CLhuXw0RM3HBUg=
+
+Name: res/drawable-hdpi-v4/lau_notify_icon_upgrade_2_bg.png
+SHA-256-Digest: HOPvb8E3tin9BMdp20ZquYfH224HChP8lfEZ+oMx/t8=
+
+Name: res/drawable-hdpi-v4/lau_notify_icon_upgrade_bg.png
+SHA-256-Digest: WDC0TwFk4E7Tlak9bXw30Qy6pX7lW2D+vb4ggIN9gHI=
+
+Name: res/drawable/lan_download_bg.png
+SHA-256-Digest: EYUsXG/oirl3vqc6UPDg4jxYiw8muqRipec5SUhPu2M=
+
+Name: res/drawable/lan_download_icon_arrow.png
+SHA-256-Digest: S6sLsGbVp0cD/tLtcZ1gnRSFlFVuUFqxZHNh9sISops=
+
+Name: res/drawable/lan_download_wave1.png
+SHA-256-Digest: 0gCCXe6rqNhArPbBfAluHggG5Byxs5AEVdHIbh1AWUY=
+
+Name: res/drawable/lan_download_wave2.png
+SHA-256-Digest: fPyLFNgmcKqoaVNmSsmtTdhvmQcZwTScr+YLJtxfqdI=
+
+Name: res/drawable/lan_loading.png
+SHA-256-Digest: 7TsL1bgq+7ZGG8aWccuqBljNRJW74e7WhWKpfIYQt3w=
+
+Name: res/drawable/lan_quicksettings_icon_wifi_0.png
+SHA-256-Digest: Gq1bd0qXDAkTsQuu2Fk4eDFGK27YBHRvM8Cs6rtFkhY=
+
+Name: res/drawable/lan_quicksettings_icon_wifi_1.png
+SHA-256-Digest: 9R6MgsWT7gIg+d4l9vE0sgUBnZcnz7aJWVsMoPJambo=
+
+Name: res/drawable/lan_quicksettings_icon_wifi_2.png
+SHA-256-Digest: fjmzP9BpFx9j2Kg0BZHCj8EhJF47klGNQNmnNEd9vdE=
+
+Name: res/drawable/lan_quicksettings_icon_wifi_3.png
+SHA-256-Digest: uM49M727/aB2eT1vli31ljz94OMtVdHjhYNflXp0wiI=
+
+Name: res/drawable/lau_notify_call_buttom_reply_96.png
+SHA-256-Digest: qxiZ8jArg1Oc3Hj5CUSUKBEUAph/fPymoxIeTGTAkVc=
+
+Name: res/layout/activity_main.xml
+SHA-256-Digest: 3wJiREI555Tn7cwZ3dGbM6/1WA14ca9IH6iCTVDaBec=
+
+Name: res/layout/confirm_dialog_1.xml
+SHA-256-Digest: w2Dp3rX3GwboWFQYruYHYltQpuPuscaRGrkco3+vvgY=
+
+Name: res/layout/confirm_dialog_2.xml
+SHA-256-Digest: ZCqHYz8bEkjOn5umnn80KlPBy/EpmDks8cVnUjCGPjk=
+
+Name: res/layout/download.xml
+SHA-256-Digest: 1QTN4//s/H+k4npnA27CaKik+KmtCqIlTLnkFM766Ls=
+
+Name: res/layout/hm_dialog.xml
+SHA-256-Digest: Y2BltbS24P5LJuvztT2MknJvhOdFVxfafvo9NRHdqVQ=
+
+Name: res/layout/hm_text_dialog.xml
+SHA-256-Digest: hpox1kulMYh1KOmNe3ak/rYenAiUyQ9a5yGrvC/oilc=
+
+Name: res/layout/update_layout.xml
+SHA-256-Digest: FqkE7WtpJb/MtPIfjlpgNSwSns3z9lxzKDNgMIOlqlE=
+
+Name: res/layout/wifi_item.xml
+SHA-256-Digest: jKbvHM4qaqsKkEkDmQA6yllXZjTegI8ehrdwOTkDRKM=
+
+Name: res/layout/wifi_list.xml
+SHA-256-Digest: 5s9B+FHpDPJWNJOKCtWC6frNVBI7//W9oUkygiFrDbo=
+
+Name: res/layout/wifi_scan.xml
+SHA-256-Digest: 0kzplyTVVCmAo7L9NXaKozeL+DvMF5HEaw3ldYIiGu4=
+
+Name: res/mipmap-hdpi-v4/ic_launcher.png
+SHA-256-Digest: a327WgLO8z9fqBCT2b4X7GGRjXbL23VcTbxtERQDRPU=
+
+Name: res/mipmap-mdpi-v4/ic_launcher.png
+SHA-256-Digest: a327WgLO8z9fqBCT2b4X7GGRjXbL23VcTbxtERQDRPU=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher.png
+SHA-256-Digest: a327WgLO8z9fqBCT2b4X7GGRjXbL23VcTbxtERQDRPU=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher.png
+SHA-256-Digest: a327WgLO8z9fqBCT2b4X7GGRjXbL23VcTbxtERQDRPU=
+
+Name: resources.arsc
+SHA-256-Digest: 4Nw7w/DmwF7fQjNktteXjoJMq+Ptz4TFUnEQgHBCxWg=
+

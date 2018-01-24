@@ -1,0 +1,60 @@
+Manifest-Version: 1.0
+Created-By: 1.7.0_79 (Oracle Corporation)
+
+Name: AndroidManifest.xml
+SHA-256-Digest: /yr8oaDtmCMSPHSWw7nEEN60rRq+exdWYwPFe3tzXVI=
+
+Name: res/drawable-hdpi-v4/ic_fail.png
+SHA-256-Digest: DIYOGXyIcc4bPSwiqzjKNYj2vhtAaDUsxHleTlS4JvY=
+
+Name: res/drawable-hdpi-v4/ic_success.png
+SHA-256-Digest: MjawkRxFOER58WNfRGrx5qj64YKARame8GlklCPy89s=
+
+Name: res/drawable-mdpi-v4/ic_fail.png
+SHA-256-Digest: 2x8miUTmE6J62TJbK/F0Bwv6tXhZAyMzOqMhkjjBAjA=
+
+Name: res/drawable-mdpi-v4/ic_success.png
+SHA-256-Digest: qekqCeYxjQ3KHaunmimfdtSuGQROki0ycdADvnFCZC0=
+
+Name: res/drawable-xhdpi-v4/ic_fail.png
+SHA-256-Digest: Ba84RH4/uyrZUfPn1c47xIVwcvs/35D//QK5qqSMukc=
+
+Name: res/drawable-xhdpi-v4/ic_success.png
+SHA-256-Digest: LQGbfBZb2/av47XgsOBf3lI8Lg1KIlUUVfKmiYGIO80=
+
+Name: res/drawable/ic_fail_material.xml
+SHA-256-Digest: 0/wJVddk3Yxl75btPMHUT++81BsZj586xFuTzNXXi+k=
+
+Name: res/drawable/ic_result_status.xml
+SHA-256-Digest: k8A9nzzSBzvvLxHhwKQN3D1HyWq3PTy0GdMl9D816j4=
+
+Name: res/drawable/ic_success_material.xml
+SHA-256-Digest: XqueZARiwWC+m4e2ZckdezM/OvmVLnMxgdKqRTBc8gk=
+
+Name: res/layout/app_details.xml
+SHA-256-Digest: 9/L0OPkGcTcRKqsVK0heRpK1wcd3kal7VtdnS0dsUqw=
+
+Name: res/layout/install_confirm.xml
+SHA-256-Digest: S2c2S3w4rPTRXZ34wdErGY7YS8CCiYqcUvHlLGuDxgw=
+
+Name: res/layout/install_start.xml
+SHA-256-Digest: yl7bO6ioPTRVudf2LZ7amWBQVHCf59EvaJkz1R8LLsU=
+
+Name: res/layout/label.xml
+SHA-256-Digest: YLzPYczqaynp5FPOmn7hK8zimgCAynFtCXOlXg0rNyw=
+
+Name: res/layout/op_progress.xml
+SHA-256-Digest: T/Y2KoIxDYeeffJuw8ZVSjHxUa9kTjy7QMu1oohrIXI=
+
+Name: res/layout/permissions_list.xml
+SHA-256-Digest: /n9sb/gjc4GZNyze8JpbfVmPal25wBTodwCyRBSlh2M=
+
+Name: res/layout/uninstall_confirm.xml
+SHA-256-Digest: XmuFG6nptgWummIeODcMs4ctLJnXIPAK5cHQ4zfogLk=
+
+Name: res/layout/uninstall_progress.xml
+SHA-256-Digest: 4E1HJyhlcBHmr1QKft/hNEND0M8wPp/scLnMzzRirZ4=
+
+Name: resources.arsc
+SHA-256-Digest: H4rcdHLqpu+GKi/WOuWM8xw+l6SIGjavAXzrnr6qHW0=
+

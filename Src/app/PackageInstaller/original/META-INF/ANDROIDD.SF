@@ -1,0 +1,62 @@
+Signature-Version: 1.0
+Created-By: 0.3 (Android apksigner)
+SHA-256-Digest-Manifest: VzvGPuApq2FFLQzKRjxCbXTtSmT0vsvGsFhXTtEjBBI=
+X-Android-APK-Signed: 2
+
+Name: AndroidManifest.xml
+SHA-256-Digest: GlmyAnjHS4z4sg9EzCNj7X7Gf2Tdku2sL+2yIjT0iak=
+
+Name: res/drawable-hdpi-v4/ic_fail.png
+SHA-256-Digest: EiAnEZw8ph2k8tMHEFUkA+VVt8TAWP1YhJkcmNoE3xI=
+
+Name: res/drawable-hdpi-v4/ic_success.png
+SHA-256-Digest: pD+0VjnIMHPdjT/A9+Cppg7MOdPtUxPrkmovY0OTLnM=
+
+Name: res/drawable-mdpi-v4/ic_fail.png
+SHA-256-Digest: uzzK7JFnQz5alalPahwe+nnrPiY/S670K3rTu8lNG0I=
+
+Name: res/drawable-mdpi-v4/ic_success.png
+SHA-256-Digest: gD9PSDwvv1gIdNKDTwuxGX2NOgAbqtd7vyr0XQbV+ew=
+
+Name: res/drawable-xhdpi-v4/ic_fail.png
+SHA-256-Digest: BGKmK9Pmq3vEzEqoaY5kLcH1AIwu/D6NXKEAB1NADzw=
+
+Name: res/drawable-xhdpi-v4/ic_success.png
+SHA-256-Digest: z5eoXNaUENGzFc+jdZGlS3gbHgsIN6KNFp/ZTXFfoMM=
+
+Name: res/drawable/ic_fail_material.xml
+SHA-256-Digest: DOqC0HSjVkYgQJ/MQem4aHqlAJRzJ5U+RASROH9gomU=
+
+Name: res/drawable/ic_result_status.xml
+SHA-256-Digest: usNjtR/p4r0+LMK6WjvD9l/5TouBjJvkv5yCHYmzcL8=
+
+Name: res/drawable/ic_success_material.xml
+SHA-256-Digest: k/ScbnqKO6RYRYLxJIOgqPYWBrctxCzBKHwXBHpq4RU=
+
+Name: res/layout/app_details.xml
+SHA-256-Digest: 50EPl366Kx9/C6nYV3kCqR/pgo6wPdTb3h5sSIRuxzw=
+
+Name: res/layout/install_confirm.xml
+SHA-256-Digest: V0PBYXovFsjScwwb1NwkvmCzBLz3AcAXiZS3cHIkMsw=
+
+Name: res/layout/install_start.xml
+SHA-256-Digest: OWkrxSrpe9iO8sPxSoHZTdr9blIpjqPePIXdE1prRfs=
+
+Name: res/layout/label.xml
+SHA-256-Digest: aQQNbAtBjHHtpZeZ+WLP9L8BgmmA9NyA3NcONQzPPjU=
+
+Name: res/layout/op_progress.xml
+SHA-256-Digest: GFkdtc6mVRl2o8yyUuf371j1TQo1tUrHbupInWc6bSM=
+
+Name: res/layout/permissions_list.xml
+SHA-256-Digest: dnVPeDzB2vEKn6yxvuXQuyzsygnR0sOfahnMOK0Ce0s=
+
+Name: res/layout/uninstall_confirm.xml
+SHA-256-Digest: xP2hxnxHJ4SUmz/ICgngaHZF/vQYPmPE0vTqA0aBUZY=
+
+Name: res/layout/uninstall_progress.xml
+SHA-256-Digest: q/SdHIAS39eOQFMnqrYmblSSfytUfSFKcM16UA+bZO0=
+
+Name: resources.arsc
+SHA-256-Digest: FimNaPM5NyBIT7f7axSY/jbnjul5bKU8X9Te7mdpsNw=
+

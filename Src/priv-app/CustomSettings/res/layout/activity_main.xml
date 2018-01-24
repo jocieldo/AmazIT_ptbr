@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:id="@id/activity_main" android:background="@drawable/main_bg" android:paddingLeft="@dimen/activity_horizontal_margin" android:paddingTop="@dimen/activity_vertical_margin" android:paddingRight="@dimen/activity_horizontal_margin" android:paddingBottom="@dimen/activity_vertical_margin" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="1.0">
+        <TextView android:textSize="18.0sp" android:textColor="@android:color/white" android:id="@id/tv_title" android:layout_width="183.0dip" android:layout_height="wrap_content" android:text="@string/tv_title" android:textAlignment="center" />
+        <Space android:layout_width="fill_parent" android:layout_height="15.0dip" />
+        <Button android:textSize="16.0sp" android:textStyle="bold" android:textColor="@android:color/white" android:id="@id/btn_system" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/tv_system_title" />
+        <Button android:textSize="16.0sp" android:textStyle="bold" android:textColor="@android:color/white" android:id="@id/btn_scheduler" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/tv_scheduler" />
+        <Button android:textSize="16.0sp" android:textStyle="bold" android:textColor="@android:color/background_light" android:id="@id/btn_task" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/btn_task" />
+        <Button android:textSize="16.0sp" android:textStyle="bold" android:textColor="@android:color/background_light" android:id="@id/btn_font" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/btn_qr" />
+        <Button android:textSize="16.0sp" android:textStyle="bold" android:textColor="@android:color/white" android:id="@id/btn_update" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/tv_update_title" />
+        <Button android:textSize="16.0sp" android:textStyle="bold" android:textColor="@android:color/white" android:id="@id/btn_info" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/btn_info" />
+        <Button android:textSize="16.0sp" android:textStyle="bold" android:textColor="@android:color/white" android:id="@id/btn_widget" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/tv_widget" />
+        <Button android:textSize="16.0sp" android:textStyle="bold" android:textColor="@android:color/holo_blue_bright" android:id="@id/btn_reboot" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/btn_reboot" />
+    </LinearLayout>
+</ScrollView>

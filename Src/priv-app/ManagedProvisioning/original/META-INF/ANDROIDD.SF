@@ -1,0 +1,65 @@
+Signature-Version: 1.0
+Created-By: 0.3 (Android apksigner)
+SHA-256-Digest-Manifest: v9nUmVre76q5HezaDJtJE807Bd4+uYwXTiTAGZZs0JE=
+X-Android-APK-Signed: 2
+
+Name: AndroidManifest.xml
+SHA-256-Digest: V6HiqARhmROi8Ngyt371E7TausUfTUPNgxKLOBLdYxw=
+
+Name: res/color/colored_button.xml
+SHA-256-Digest: oMAk0lYx+u1t26wNf+ICt8d3NGxSyOdQ2kEuZKAR7QA=
+
+Name: res/drawable-hdpi-v4/setup_illustration.png
+SHA-256-Digest: ZJw6UpxJS7cinGhjY0gbODHf04KTU3iMgtzJmpKHpo8=
+
+Name: res/drawable-hdpi-v4/setup_illustration_tile.png
+SHA-256-Digest: vmOtjCpUeUQwoImlFmLDfuJbiVL41MJP1X1Og0M0L7A=
+
+Name: res/drawable-mdpi-v4/setup_illustration.png
+SHA-256-Digest: m/B5h8b9h5es8O0uR/CH7EGEafIILv+ianjXb3jBhQM=
+
+Name: res/drawable-mdpi-v4/setup_illustration_tile.png
+SHA-256-Digest: KZgJD0BrOuYAa366MopMrvZrBBYhgssoOb92DMO1cP4=
+
+Name: res/drawable-xhdpi-v4/setup_illustration.png
+SHA-256-Digest: RkRCAoyP45qPeVrkzzWh35xRioFPMqdIrkNa1cH1rEw=
+
+Name: res/drawable-xhdpi-v4/setup_illustration_tile.png
+SHA-256-Digest: AQUKHCmJJqnxXe+LyiIATAmVQgnDdnsmwwSXrqMfKJ0=
+
+Name: res/drawable-xxhdpi-v4/setup_illustration.png
+SHA-256-Digest: +ZcEg809VFrqQaVgjVz3RTmFq/Igo/TOWJC2T8sXw+4=
+
+Name: res/drawable-xxhdpi-v4/setup_illustration_tile.png
+SHA-256-Digest: ZYRPyJlfObMolY84C8NNH6S11Bm6GDn0v6+2tpVISQU=
+
+Name: res/drawable/setup_illustration_right.xml
+SHA-256-Digest: zsJGw9PT76cM7jXRcC5wpuGdSDDEnNRtPPGYZGTg6wI=
+
+Name: res/layout-land/header_and_title.xml
+SHA-256-Digest: OLJ4UEaGDxrKxhcKEg9svIUshbRJx1v7obJGUnly478=
+
+Name: res/layout/encrypt_device.xml
+SHA-256-Digest: hX7hy6eenGHVoq6NZWtnZOCgn2vPgArmbRMP1NzSo2A=
+
+Name: res/layout/encrypt_device_main_text.xml
+SHA-256-Digest: J5cOswAcoSPs0+RFKmYtdyGPSR1wJV4bkhAXHCBR3xo=
+
+Name: res/layout/header_and_title.xml
+SHA-256-Digest: y+QUuDYXwJcchXd7AsoF48sjisO8hPMFjabxPjmJs2E=
+
+Name: res/layout/learn_more_dialog.xml
+SHA-256-Digest: Oh0YnT1pYCR/knzCAKSN7UNx76U3Fdva4PEJn8BUojQ=
+
+Name: res/layout/progress.xml
+SHA-256-Digest: i9WY8rUH9mIFNHxVQcUhwb7hEaDNK+NB4pcIdG1+9gA=
+
+Name: res/layout/user_consent.xml
+SHA-256-Digest: nK149pkIYBxpqttDK5M8FVGke6u0y3h7TND2FwMBFsg=
+
+Name: res/layout/user_consent_main_text.xml
+SHA-256-Digest: uRC0jGd5d1xGklBQDnXFtc5/6/28t6i0R0lBvPucPj0=
+
+Name: resources.arsc
+SHA-256-Digest: GZayGMvEHDE5h1vhvPxllPsqq6FVLBNHSDIe2YpR0ko=
+

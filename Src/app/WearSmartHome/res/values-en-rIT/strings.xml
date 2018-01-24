@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HmSmartHome</string>
+    <string name="average_text">Avg</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">Conferma</string>
+    <string name="picker_default_nagetive_text">Off</string>
+    <string name="no_heartrate_data_hint">Battito non rilevato</string>
+    <string name="no_altitude_hint">Altitudine non rilevata</string>
+    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="title_settings">Impostazioni</string>
+    <string name="sport_music_settings">Sports music</string>
+    <string name="mihome_widget_title">Mi Home</string>
+    <string name="mihome_widget_info_unbind">"Collega l'orologio all'app Mi Home"</string>
+    <string name="mihome_widget_info_no_devices">"Aggiungi l'orologio dall'app Mi Home per controllare i dispositivi Xiaomi"</string>
+    <string name="mihome_activity_title_disconnected">Non connesso</string>
+    <string name="mihome_activity_info_disconnected">"Collega l'orologio all'app"</string>
+    <string name="mihome_activity_btn_disconnected">"Collega l'orologio all'app"</string>
+    <string name="mihome_device_card_2_offline">[Offline]</string>
+</resources>

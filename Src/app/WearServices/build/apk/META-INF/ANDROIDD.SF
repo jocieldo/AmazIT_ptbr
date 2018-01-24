@@ -1,0 +1,101 @@
+Signature-Version: 1.0
+Created-By: 0.3 (Android apksigner)
+SHA-256-Digest-Manifest: 2tG2+IST+DitVmw/ZEyjLWTAUf0Lgwwx7oobWC8vZ+c=
+X-Android-APK-Signed: 2
+
+Name: AndroidManifest.xml
+SHA-256-Digest: l9oQleJClhuyUiFSWkFTNp2M5u1c2HsGLGYzfD/3ljc=
+
+Name: com/ingenic/iwds/DeviceDescriptor.aidl
+SHA-256-Digest: MUqiVewijI25Mkug/7oO/WJBtyZ6ulUAy0JOaMfggNM=
+
+Name: com/ingenic/iwds/app/INotificationProxyService.aidl
+SHA-256-Digest: MOOV2r2UrJqmP7qhVTa8b+fEscwuPoLY34WsaucEPlU=
+
+Name: com/ingenic/iwds/app/INotificationServiceBackend.aidl
+SHA-256-Digest: dIMiARbWmlJS55C3OR+G0ebSVXTnmF0yRwYbvYWgvts=
+
+Name: com/ingenic/iwds/app/Note.aidl
+SHA-256-Digest: CMU4BkJr7HNLmOm/kFQfvTeOLCYdrdRLvb3wOGwuYWE=
+
+Name: com/ingenic/iwds/devicemanager/IDeviceManagerService.aidl
+SHA-256-Digest: mSKPR5wpYs3/tltRNeRdIP71ujKiSilbwpnW4LWrBW4=
+
+Name: com/ingenic/iwds/remotedevice/IRemoteDeviceAppCallback.aidl
+SHA-256-Digest: tXd73RTXBV/fQakFzEbbgu3OWGdqGTZqd6DGOpPIpfI=
+
+Name: com/ingenic/iwds/remotedevice/IRemoteDeviceProcessCallback.aidl
+SHA-256-Digest: lViGnEji3GR7ZfNrefU+KHGKNMzUzNvZT8gVfbVNmto=
+
+Name: com/ingenic/iwds/remotedevice/IRemoteDeviceService.aidl
+SHA-256-Digest: iSg2CwB2o829SvV5UY6KN2PoAp27YZVZKcRHglQKcyk=
+
+Name: com/ingenic/iwds/remotedevice/IRemoteDeviceSettingCallback.aidl
+SHA-256-Digest: 9ZaCcxIwB2L4ttBYeqiLNMXB/STkrl+DO/US3g56vNw=
+
+Name: com/ingenic/iwds/remotedevice/IRemoteDeviceStatusCallback.aidl
+SHA-256-Digest: 2Hpzboe3x+MGco4opFn6lQAJExYKdxVd1Hz76hxMmX0=
+
+Name: com/ingenic/iwds/remotedevice/RemoteApplicationInfoList.aidl
+SHA-256-Digest: FzoB0AFtsGOk/kINJJxjuDJd6tan8ixUGtPzdau2Jqc=
+
+Name: com/ingenic/iwds/remotedevice/RemotePackageStats.aidl
+SHA-256-Digest: auwa1pw//iizuwgyZTKGqwI+bC9LNA/joP2Sa2gjEVI=
+
+Name: com/ingenic/iwds/remotedevice/RemoteProcessInfoList.aidl
+SHA-256-Digest: h0SMYZJ08x+CKmizISZ0R+DEQBJlT2sEWQSCLiTKBFw=
+
+Name: com/ingenic/iwds/remotedevice/RemoteStorageInfo.aidl
+SHA-256-Digest: ICUg8iMts08lG07f50ONgvv0vEeFFGVByF1U+ShborI=
+
+Name: com/ingenic/iwds/slpt/IWatchFaceService.aidl
+SHA-256-Digest: E/vwrnyb+72uqjV1rsC6pnQgtVeLtPck6N6pyi7MM4U=
+
+Name: com/ingenic/iwds/smartsense/IRemoteSensorCallback.aidl
+SHA-256-Digest: Ybcl3K9/6VcpOCtEEKgLafl6c6gElhE3aMcZi+rGYno=
+
+Name: com/ingenic/iwds/smartsense/IRemoteSensorEventCallback.aidl
+SHA-256-Digest: ntHEhS/QGx8906ACP/Pn6xEv6LpWrxcJJc+USsOarH8=
+
+Name: com/ingenic/iwds/smartsense/IRemoteSensorService.aidl
+SHA-256-Digest: ZlEYfsna9cXHZlDU6cdl5Of/7JNDmBNxm7VF0+Czngg=
+
+Name: com/ingenic/iwds/smartsense/ISensorEventCallback.aidl
+SHA-256-Digest: OemSu5wtpnal7CqcAQyuU517UZACv6R9bf9HKXTp5Zo=
+
+Name: com/ingenic/iwds/smartsense/ISensorService.aidl
+SHA-256-Digest: u5kBuObLRBYX3GO2BNHZzAxXNRMnOvYXhj9YXDiJ8Pw=
+
+Name: com/ingenic/iwds/smartsense/Sensor.aidl
+SHA-256-Digest: l2mvFmbnjARKOCmA/RSBEN0aevT7n2DDTjpgy9Ub48A=
+
+Name: com/ingenic/iwds/smartsense/SensorEvent.aidl
+SHA-256-Digest: Qq8za4K3OLwndO5LI+7bKUUrurKEulchOP1xUFT5pMw=
+
+Name: com/ingenic/iwds/smartvibrate/IVibrateService.aidl
+SHA-256-Digest: A60qdszSyz6ybXMqDlttNDCfcqRFe+LwzH76Nw8C8E0=
+
+Name: com/ingenic/iwds/uniconnect/IConnection.aidl.bak
+SHA-256-Digest: pKLLwZwdLk1hz9DoX0HJo01X7qqE0cVGKj34zdYJjaE=
+
+Name: com/ingenic/iwds/uniconnect/IConnectionCallBack.aidl.bak
+SHA-256-Digest: OH7yoA0+QSWVhrIlER0riunZZ2c0MLM+S30r2c8jmCE=
+
+Name: com/ingenic/iwds/uniconnect/IConnectionService.aidl.bak
+SHA-256-Digest: uYab+YaFkVPcxRKc214neTqtiRlAZ+pxH37Q7c5xIP0=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA-256-Digest: S5+bV80mf/IPdmUqtv/fjZQvKN/LCSyn+ipmzL2czwU=
+
+Name: res/drawable-xxhdpi-v4/ic_launcher.png
+SHA-256-Digest: Kl6Hi9UCdB8oqgOGdds8n3AiKYEzIplvGyeTUCqgr6Y=
+
+Name: res/drawable/lan_quicksettings_icon_lost_break.png
+SHA-256-Digest: nAhSRG4SUhfHl+sr5umNDKIZrbWgh101t+01z+0xDJ0=
+
+Name: res/drawable/lan_quicksettings_icon_lost_far.png
+SHA-256-Digest: /sI4jjL/cpFywM/cAolQEcm+lM/7pz9/qCcM7tjDT34=
+
+Name: resources.arsc
+SHA-256-Digest: ELxjBD9LYgtfbsZLNoW91Qn9QLsjAy4aB8mFS0LyA1A=
+

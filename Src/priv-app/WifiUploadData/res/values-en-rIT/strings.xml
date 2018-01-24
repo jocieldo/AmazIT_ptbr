@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="average_text">Media</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">Conferma</string>
+    <string name="picker_default_nagetive_text">No</string>
+    <string name="no_heartrate_data_hint">Dati sul battito non rilevati</string>
+    <string name="no_altitude_hint">"Dati sull'altitudine non rilevati"</string>
+    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="title_settings">Impostazioni</string>
+    <string name="sport_music_settings">Sports music</string>
+    <string name="app_name">WifiUploadData</string>
+    <string name="notice_text_success_top">caricamento dati riuscito</string>
+    <string name="notice_text_success_bottom">Guarda Mi Sport</string>
+    <string name="notice_text_failed_top">caricamento dati fallito</string>
+    <string name="net_failed">Controllare la connessione e riprovare</string>
+    <string name="date">Data:</string>
+    <string name="am">AM</string>
+    <string name="pm">PM</string>
+    <string name="date_">/</string>
+    <string name="date_m">:</string>
+    <string name="see_after_connect_app_token_faield">"Non riesco a connettermi all'app Amazfit watch"</string>
+    <string name="cannot_acess_server">Impossibile accedere al server</string>
+    <string name="cannot_upload_user">Non posso aggiornare i dati</string>
+    <string name="please_upload_assist_version">Prego aggiornare la versione assist</string>
+    <string name="did_not_connect_assist">"Collega l'orologio all'App Amazfit watch per continuare'"</string>
+    <string name="upload_failed_full">Il caricamento per questa volta non riesce,se vuoi fermare?</string>
+    <string name="percent_sign">%</string>
+    <string name="please_keep_wifi_connected">"Tenere l'orologio connesso al WIFI"</string>
+    <string name="init_wifi">Connesso al Wi-Fi</string>
+    <string name="init_user">Controllo utente</string>
+    <string name="init_app">App connessa</string>
+    <string name="init_update_user">Aggiorna utente</string>
+    <string name="zero">0</string>
+</resources>

@@ -1,0 +1,77 @@
+Signature-Version: 1.0
+Created-By: 0.3 (Android apksigner)
+SHA-256-Digest-Manifest: hOb/MGIO0OqBuIoIMezI3oCNCYRUxzPwzSPTz5aclNQ=
+X-Android-APK-Signed: 2
+
+Name: AndroidManifest.xml
+SHA-256-Digest: mNCkLHcZTZFMS7MVW8fcM1LAVQYDoRjTMOV2PgbLJzA=
+
+Name: res/drawable-hdpi-v4/bt_incomming_file_notification.png
+SHA-256-Digest: hSJYHnY4lTBcNMxBBEDR9cocFqx1lAofSxsItCOVjD8=
+
+Name: res/drawable-hdpi-v4/bt_share.png
+SHA-256-Digest: 7mxWsP1knb+ucV1PGgeBv5GmNcW3bxpBKdaOtphGbTg=
+
+Name: res/drawable-hdpi-v4/ic_launcher_folder_bluetooth.png
+SHA-256-Digest: wlEE+U9V7n8NkleblRGxGPpvbRFGo2TKEnr1Wd/K1Yg=
+
+Name: res/drawable-mdpi-v4/bt_incomming_file_notification.png
+SHA-256-Digest: iCZDiiQsb5a1yPk/rKgp/AzK/WQFnYDKMND7xy+s73k=
+
+Name: res/drawable-mdpi-v4/bt_share.png
+SHA-256-Digest: FqLCa1d5qsXsAT4nVZvFd7oUVm7MR+oHYLX3cZSMB2A=
+
+Name: res/drawable-mdpi-v4/ic_launcher_folder_bluetooth.png
+SHA-256-Digest: /qknV+YED2suxVCcM8PLtIaPzdBScrvYWAmC00/P8ZI=
+
+Name: res/drawable-xhdpi-v4/bt_incomming_file_notification.png
+SHA-256-Digest: ExGwyBw2mCLss0D3ERn1l33BzE48vbSzFSvPIV2e+Mc=
+
+Name: res/layout/auth.xml
+SHA-256-Digest: l7rz8lFwIrKiCq+Df4MISANU0tucgKpal0PmiOGhweo=
+
+Name: res/layout/bluetooth_map_email_settings.xml
+SHA-256-Digest: fM6meMS4WHzKQOobPyioYqLtWhrbj9koMKK4QpKxLw8=
+
+Name: res/layout/bluetooth_map_email_settings_account_group.xml
+SHA-256-Digest: gskIOe9kVErkHAS+7t3e6VkCeTWwIDmm7gQ4vK2kqV0=
+
+Name: res/layout/bluetooth_map_email_settings_account_item.xml
+SHA-256-Digest: MNiNgha9L8E4thaYI3IsVXu4EUzooF/sEstkzB8ZNRg=
+
+Name: res/layout/bluetooth_transfer_item.xml
+SHA-256-Digest: nOFuKBkUp/Cg5b4Fl1WzYptmUhnx1AxbFyxiqhdSB9Q=
+
+Name: res/layout/bluetooth_transfers_page.xml
+SHA-256-Digest: OfMb89G/PfkqeHgOwZyeuopLKH6jY5j+C1phxI+7tyQ=
+
+Name: res/layout/bt_enabling_progress.xml
+SHA-256-Digest: bOz4lZt4HBGBYbOh27ODvA2pBIJ0Z3tS8nEM2k3TFoc=
+
+Name: res/layout/confirm_dialog.xml
+SHA-256-Digest: hqmaqVfvRpJnFyQ7BIrEgtKaNqNS9PKFGYdtlEqWTKw=
+
+Name: res/layout/file_transfer.xml
+SHA-256-Digest: l221nUztVILmxAycYHiP3gnm6W/sP99sXSYfiNaGA4s=
+
+Name: res/layout/incoming_dialog.xml
+SHA-256-Digest: nau9p3FngbM7GOtsnBQ28ssrDQXt/1EwP6pCHeZU91I=
+
+Name: res/layout/no_transfers.xml
+SHA-256-Digest: lU3aWqMMh0DRlJ5FSHMdV/8vbeSe5ks6K/27EBGGt60=
+
+Name: res/layout/testactivity_main.xml
+SHA-256-Digest: c0y2agcO+wWgiOBCdvBLwm0VOOk3cKWlaHkclpJ3YgM=
+
+Name: res/menu/receivedfilescontextfinished.xml
+SHA-256-Digest: D1pAaQbcJoqSXP0ant45pktvexC8zfsRlv2Clp/j7K0=
+
+Name: res/menu/transferhistory.xml
+SHA-256-Digest: 1pObFipzj3mfvyk3rlmgAesPg0TOOZ0K+PntQQ9x1zk=
+
+Name: res/menu/transferhistorycontextfinished.xml
+SHA-256-Digest: lw7M0ZDaH2xnDloIn9GBSYrO1SFp/sfPtlYO2FYvDWs=
+
+Name: resources.arsc
+SHA-256-Digest: /EaP2UqEiHNiBngGfjW+uNfSfFmKp9Ku1w429T64qT8=
+

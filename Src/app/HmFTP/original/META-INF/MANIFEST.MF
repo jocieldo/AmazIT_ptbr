@@ -1,0 +1,45 @@
+Manifest-Version: 1.0
+Created-By: 1.7.0_79 (Oracle Corporation)
+
+Name: AndroidManifest.xml
+SHA1-Digest: jBfwwocCgfkSeKS+HpnaoWIv0sQ=
+
+Name: classes.dex
+SHA1-Digest: 6Vk70zmBcaxi6rG/v0DHbUA+GKk=
+
+Name: org/apache/ftpserver/config/spring/ftpserver-1.0.xsd
+SHA1-Digest: mSnXsMHto42jNpvhhUEwGDTX4/U=
+
+Name: org/apache/ftpserver/ftpserver.properties
+SHA1-Digest: hcYbDvBcQtIKIUl01iFJLbALbAs=
+
+Name: org/apache/ftpserver/message/FtpStatus.properties
+SHA1-Digest: K7R1IVfUGZn+nCxJWDN12ivF+dI=
+
+Name: org/apache/ftpserver/message/FtpStatus_en.properties
+SHA1-Digest: D4Pjl/ABmLugAz4a5B5NKckby9U=
+
+Name: org/apache/ftpserver/message/FtpStatus_zh-tw.properties
+SHA1-Digest: pc7LjTgX0TMfZRKnS6cbdx45BeQ=
+
+Name: org/apache/log4j/lf5/config/defaultconfig.properties
+SHA1-Digest: U/6Y/nFnFw8D62Zwx4UnveH//OQ=
+
+Name: org/apache/log4j/lf5/viewer/images/channelexplorer_new.gif
+SHA1-Digest: FDAPzVzQ1TzPxi8pXIQsUjjOjiU=
+
+Name: org/apache/log4j/lf5/viewer/images/channelexplorer_satellite.gif
+SHA1-Digest: iebwlkIP3yHu2dv44NYtCRignA8=
+
+Name: org/apache/log4j/lf5/viewer/images/lf5_small_icon.gif
+SHA1-Digest: 6XNprQWQaUGTCjUsAShSkfEla28=
+
+Name: org/apache/log4j/xml/log4j.dtd
+SHA1-Digest: QWC9TmIWDZb5MSHdv58o6aOmMvo=
+
+Name: res/raw/users
+SHA1-Digest: SZwa3iY24AYaqgNnlt4TejQ0/k4=
+
+Name: resources.arsc
+SHA1-Digest: yGnUUOL/3/fYrERaN8o7Vv1Mbnk=
+

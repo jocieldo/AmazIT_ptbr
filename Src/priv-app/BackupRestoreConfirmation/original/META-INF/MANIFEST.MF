@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Created-By: 1.7.0_79 (Oracle Corporation)
+
+Name: AndroidManifest.xml
+SHA-256-Digest: oaA8+70LH6zX5BplbWukNEulCEbRMY+2+KmYJVfQCg8=
+
+Name: res/layout/confirm_backup.xml
+SHA-256-Digest: qyyJnwWDpint2p21ppXTyduWnZdeDKgmGd/RAJy8ZMw=
+
+Name: res/layout/confirm_restore.xml
+SHA-256-Digest: QNSxAtBJ78nyd7SDEHtYOmEKRrp+XgJL/9yFcZW7yiI=
+
+Name: resources.arsc
+SHA-256-Digest: m1UAQeAHa76BtfdesIRWJ7Db3nfrZIsF5YrjTsbH31Q=
+

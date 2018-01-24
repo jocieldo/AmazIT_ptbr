@@ -1,0 +1,20 @@
+Signature-Version: 1.0
+Created-By: 0.3 (Android apksigner)
+SHA-256-Digest-Manifest: EaIU5MrEOmq3W/2ZRBt70MI6QuPcdGdluUEBvJqIOi0=
+X-Android-APK-Signed: 2
+
+Name: AndroidManifest.xml
+SHA-256-Digest: LVAnFgEXC1soZe2JDQfCxx9jrYsgqfh+u/E8+CIJ15Q=
+
+Name: assets/locked_page.png
+SHA-256-Digest: IpUKvVQoOHEdrBaCUZeAh0qTt5J4ia6ABk8wqYcy4o0=
+
+Name: res/layout/activity_captive_portal_login.xml
+SHA-256-Digest: 3LX76opP7naMBRO7ugdRtv8orPi0i39S0I7dY5YL2uI=
+
+Name: res/menu/captive_portal_login.xml
+SHA-256-Digest: 67KEFYCz2I50F2DJcpN0xh5q3BEAfS2Vd1RVC6POgYI=
+
+Name: resources.arsc
+SHA-256-Digest: vOrn4NMz8ACdokEZCaFcyPIWQSr1xNr/HeypRptexCo=
+

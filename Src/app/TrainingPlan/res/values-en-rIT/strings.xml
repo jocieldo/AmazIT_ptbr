@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
+    <string name="locale_title">Seleziona lingua</string>
+    <string name="app_name">TrainCenter</string>
+    <string name="app_train_center">Training Central</string>
+    <string name="my_train">Il mio allenamento</string>
+    <string name="please_select_train_plan">Scegli allenamento</string>
+    <string name="start_new_train">Inizia nuovo allenamento</string>
+    <string name="train_center">Training Central</string>
+    <string name="train_detail">Dettagli allenamento</string>
+    <string name="day_train_record_stag">%1$s - %2$d sett. - %3$d giorni</string>
+    <string name="day_train_record_stag_simple">- %1$d sett. - %2$d giorni</string>
+    <string name="day_train_record_train_stage">-%1$s giorni</string>
+    <string name="remind_train_first_text">Allenamento base, può migliorare la tua resistenza!</string>
+    <string name="train_start">Inizia allenamento</string>
+    <string name="hidtory_train_start_date">Inizo %1$s</string>
+    <string name="hidtory_train_end_date">Fine %1$s</string>
+    <string name="train_detail_number_weekly">- %1$d sett.</string>
+    <string name="day_train_status_done">(Completo)</string>
+    <string name="train_record_complete_percent">Completato</string>
+    <string name="day_train_record_status_finish">Completato</string>
+    <string name="day_train_record_statis_un_finish">Non completato</string>
+    <string name="dialog_day_train_plan_is_complete">"Hai completato l'allenamento odierno?"</string>
+    <string name="dialog_train_plan_is_complete">Allenamento incompleto, vuoi uscire?</string>
+    <string name="last_day_rest_remind">Allenamento completo! Ci vediamo domani!</string>
+    <string name="cancel">Annulla</string>
+    <string name="day_train_plan_record_marked">Registra</string>
+    <string name="train_plan_recode_finished">Finito</string>
+    <string name="train_mileage">Distanza allenamento (km)</string>
+    <string name="train_days">Giorni di allenamento</string>
+    <string name="train_finish">Concluso</string>
+    <string name="train_finished">Completato</string>
+    <string name="today">Oggi</string>
+    <string name="train_complete_rate">Percentuale completata</string>
+    <string name="assing_train_plan">%1$s</string>
+    <string name="train_plan_already_assgn">Assegnato</string>
+    <string name="notification_title">Training Central</string>
+    <string name="notificaiton_train_content">"Oggi non hai completato l'allenamento!"</string>
+    <string name="this_train_record_finish">Allenamento completato!</string>
+    <string name="train_finish_reason">Allenamento concluso</string>
+    <string name="app_list_title">Training</string>
+    <string name="average_text">Media</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">Conferma</string>
+    <string name="picker_default_nagetive_text">Off</string>
+    <string name="no_heartrate_data_hint">Freq. Card. non rilevata</string>
+    <string name="no_altitude_hint">Altitudine non rilevata</string>
+    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="title_settings">Impostazioni</string>
+    <string name="sport_music_settings">Musica e sport</string>
+</resources>
